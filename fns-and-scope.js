@@ -8,9 +8,10 @@ var name = 'Tyler';
 
   function isTyler(name) {
     if (name === 'Tyler'){
-    return true; }
-    else {
-    return false;}
+      return true; 
+    } else {
+      return false;
+    }
   }
 
 isTyler();
